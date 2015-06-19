@@ -1,4 +1,4 @@
-package ch.tkayser.gitignore;
+package ch.tkayser.gittest;
 
 import java.io.File;
 import java.io.FileWriter;
