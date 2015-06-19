@@ -7,7 +7,7 @@ public class Feature<<FEATURE>> {
     private String p1;
     private String p2;
 
-    public Feature() {
+    public Feature<<FEATURE>>() {
 
     }
 
