@@ -21,7 +21,7 @@ public class Feature<<FEATURE>> {
 
 
     public void showMeTheInf() {
-        System.out.println("Feature "+getClass().getName());
+        System.out.println("I am the Feature "+getClass().getName());
     }
 
     public void showMeMore() {
