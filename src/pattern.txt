@@ -24,6 +24,10 @@ public class Feature<<FEATURE>> {
         System.out.println("Feature "+getClass().getName());
     }
 
+    public void showMeMore() {
+    
+    }
+
 
 }
 
